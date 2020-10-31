@@ -27,5 +27,8 @@
   },
   "lint-staged": {
     "*.{js,json,md,yaml,yml}": "prettier --write"
+  },
+  "prettier": {
+    "printWidth": 120
   }
 }
