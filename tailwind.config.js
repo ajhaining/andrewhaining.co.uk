@@ -16,6 +16,9 @@ module.exports = {
       fontFamily: {
         heading: ["Bungee"],
       },
+      screens: {
+        dark: { raw: "(prefers-color-scheme: dark)" },
+      },
     },
   },
   variants: {},
